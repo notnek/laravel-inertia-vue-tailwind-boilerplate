@@ -1,4 +1,8 @@
 module.exports = {
+    purge: [
+        './resources/**/*.vue',
+        './resources/**/*.blade.php',
+    ],
     theme: {
         extend: {
             screens: {

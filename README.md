@@ -1,4 +1,4 @@
-# Boilerplate for Laravel + Inertia.js + Vue.js + Tailwind
+# Boilerplate project for Laravel + Inertia.js + Vue.js + Tailwind
 
 - Laravel
 - Laravel Auth
